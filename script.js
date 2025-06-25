@@ -44,7 +44,7 @@ testimonialContainer.addEventListener('mouseenter', () => {
 });
 
 testimonialContainer.addEventListener('mouseleave', () => {
-  autoplay = setInterval(nextTestimonial, 420000);
+  autoplay = setInterval(nextTestimonial, 1420000);
 });
 
 
